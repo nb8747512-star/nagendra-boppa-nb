@@ -1,0 +1,16 @@
+BOPPA NAGENDRA BABU
+Email: nb8747512@gmail.com
+Phone: 9494633443
+Location: Pamarru, pamarru mandalam, krishna district
+
+ABOUT ME
+Motivated and detail-oriented Computer Science student with a strong interest in software development, web technologies, and artificial intelligence. Skilled in Python, HTML, CSS, and JavaScript with experience building projects such as web applications, OpenCV-based tools, and data structure visualizations. Passionate about learning new technologies and solving real-world problems through innovative and efficient solutions.
+
+SKILLS
+- Languages: C, Python, JavaScript
+- Web Technologies: HTML, CSS
+- Tools/Libraries: OpenCV
+
+EDUCATION
+Computer Science and Engineering
+Dhanekula Institute of Engineering and Technology (2024-2028)
