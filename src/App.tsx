@@ -511,10 +511,22 @@ const Contact = () => {
             <a href="#" className="p-4 rounded-full border border-white/10 hover:bg-accent hover:border-accent transition-all">
               <Twitter size={24} />
             </a>
-            <a href="#" className="p-4 rounded-full border border-white/10 hover:bg-accent hover:border-accent transition-all">
+            <a 
+              href="https://www.linkedin.com/in/nagendra-babu-b33960427?utm_source=share_via&utm_content=profile&utm_medium=member_android" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="p-4 rounded-full border border-white/10 hover:bg-accent hover:border-accent transition-all"
+              aria-label="LinkedIn Profile"
+            >
               <Linkedin size={24} />
             </a>
-            <a href="#" className="p-4 rounded-full border border-white/10 hover:bg-accent hover:border-accent transition-all">
+            <a 
+              href="https://github.com/nb8747512-star" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="p-4 rounded-full border border-white/10 hover:bg-accent hover:border-accent transition-all"
+              aria-label="GitHub Profile"
+            >
               <Github size={24} />
             </a>
           </div>
